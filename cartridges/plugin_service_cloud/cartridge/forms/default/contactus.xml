@@ -10,8 +10,8 @@
 	<field formid="myquestion" label="forms.contactus.myquestion.label" type="string" mandatory="true" binding="passwordQuestion">
 		<options>
 			<option optionid="General Information" value="General Information" label="forms.contactus.generalinformation"/>
-			<option optionid="Order Status" value="Order Status" label="forms.contactus.orderstatus"/>
-			<option optionid="My Account" value="My Account" label="forms.contactus.myaccount"/>
+			<option optionid="Order Status" value="Where is my order" label="forms.contactus.orderstatus"/>
+			<option optionid="Complaint" value="Complaint" label="forms.contactus.myaccount"/>
 			<option optionid="Other" value="Other" label="forms.contactus.other"/>
 		</options>	
 	</field>
