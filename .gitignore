@@ -39,5 +39,4 @@ test/appium/webdriver/config.json
 .history
 *.iml
 .idea
-.project
 .tern-project
