@@ -17,5 +17,5 @@ MC Version:
 Please note, this repo in not replacing the connector & SFRA individual repos in any sense, but is limited to and is created to provide a simpler way to merge the code from 3 different repos. And any changes to the connector/SFRA original code version needs to be explicitely merged in this repo - does not happen automatically, always refer to rhe Specs section to validate teh supported versions. 
 
 
-# [Contributing to SFRA](./CONTRIBUTING.md)
+# [Contributing to this repo](./CONTRIBUTING.md)
 
