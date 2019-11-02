@@ -51,7 +51,7 @@
     "cldr-data": "^32.0.1",
     "codeceptjs": "^2.1.0",
     "css-loader": "^0.28.11",
-    "eslint": "^3.2.2",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^5.0.1",
     "eslint-plugin-import": "^1.12.0",
     "eslint-plugin-sitegenesis": "~1.0.0",
