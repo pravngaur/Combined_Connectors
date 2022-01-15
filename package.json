@@ -69,7 +69,7 @@
     "request-promise": "^4.2.2",
     "sass-loader": "^7.0.3",
     "sgmf-scripts": "^2.1.1",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "should": "^13.2.3",
     "sinon": "^1.17.4",
     "style-loader": "^0.21.0",
